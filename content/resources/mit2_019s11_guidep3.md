@@ -5,8 +5,6 @@ description: 'This resource contains the information about the Guidance for Part
 file: /courses/2-019-design-of-ocean-systems-spring-2011/daa45cde78ed954815d5bc28326b0ef7_MIT2_019S11_GuideP3.pdf
 file_size: 133945
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

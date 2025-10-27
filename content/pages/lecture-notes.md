@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides a overview of topics covered by the course and
   lecture notes for selected sessions.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
